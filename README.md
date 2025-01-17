@@ -1,4 +1,4 @@
-![](https://github.com/avaestephens/avaestephens/blob/main/GithubBanner.png)
+![](https://github.com/avaestephens/avaestephens/blob/main/Banner.png)
 
 
 ### About Me:
