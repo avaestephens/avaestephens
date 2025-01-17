@@ -5,4 +5,4 @@ My name is Ava Stephens, I'm a junior at Penn State studying Computer science wi
 
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,java,html,flutter,css,c,mysql,github,bash)
+![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,java,html,flutter,css,c,github,bash,flask,verilog,MIPS)
