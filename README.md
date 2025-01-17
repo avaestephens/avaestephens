@@ -1,4 +1,4 @@
-![](https://github.com/avaestephens/avaestephens/blob/main/GitHubBanner.png)
+![](https://github.com/avaestephens/avaestephens/GitHubBanner.png)
 ### About Me:
 My name is Ava Stephens, I'm a junior at Penn State studying Computer science with minors in Cybersecurity and Mathematics.
 
